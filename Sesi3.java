@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Sesi3 {
-    public static void main (String [] hady){
+    public static void main (String [] args){
 
         String nama , nim ;
 
